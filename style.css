@@ -18,6 +18,7 @@ h2 {
   letter-spacing: 4px;
   text-shadow: 2px 2px 3px black;
   font-family: "Roboto", sans-serif;
+  padding-top: 10px;
 }
 p {
   font-family: "Roboto Slab", serif;
@@ -54,7 +55,7 @@ input {
   background-color: burlywood;
 }
 #total {
-  text-align: center;
+  text-align: left;
 }
 .socialmedia{
   color: white;
