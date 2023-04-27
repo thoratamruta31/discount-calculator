@@ -56,3 +56,13 @@ input {
 #total {
   text-align: center;
 }
+.socialmedia{
+  color: white;
+  text-align: end;
+  font-size: x-large;
+  margin-right: 30px;
+  padding-bottom: 30px;
+}
+.fa{
+  margin-left: 20px;
+}
